@@ -1,16 +1,13 @@
-### Hi there 👋
+### WELCOME TO MY PROFILE 🖤
 
-<!--
-**xpzzkkj/xpzzkkj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Samuel
 
-Here are some ideas to get you started:
+- Estou estudando Alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### VOCÊ PODE ENTRAR EM CONTATO COMIGO 📫
+
+@xpzzkkj
+
+
+![](https://media.tenor.com/pdXuocE9e4oAAAAC/kimetsu-no-yaiba-yoriichi.gif)
